@@ -10,7 +10,8 @@ of the weather for surfing/snack shop.
 ##B. Results
 
 JUNE
-|	|precipitation	|temperature
+|	|precipitation	|temperature|
+|-------|---------------|-----------|
 |count	|1574.000000	|1700.000000
 |mean	|0.136360	|74.944118
 |std	|0.335731	|3.257417
